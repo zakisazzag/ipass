@@ -1,0 +1,81 @@
+/* navbar */
+.navbar {
+  background-color: #f4f4f4;
+}
+
+.navbar ul li {
+  padding-left: 10px ;
+  
+}
+.navbar ul li a {
+  color: rgb(8, 8, 8);
+  position: relative;
+  top: 4px;
+}
+.dropdown {
+  position: relative;
+  bottom: 4px;
+}
+
+.judul{
+  font-size: 18px;
+  padding-left: 4px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  position: relative;
+  top: 2px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.judul:hover {
+  color: rgb(77, 69, 69);
+  transition: 400ms;
+}
+/* AKHIR navbar */
+/* jumbotron */
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #f3ecaa;
+}
+.jumbotron img:hover {
+    box-shadow: 0px 0px 10px rgb(136, 127, 127) ;
+    border-radius: 0px 0px 70px 70px;
+    transition: 400ms;
+  }
+.jumbotron .display-2 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 22px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+.jumbotron .display-3 {
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.jumbotron .display-6 {
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: -5px;
+}
+/* akhir jumbotron */
+/* projeck  */
+
+
+
+
+#projects {
+  background-color: #f3ecaa;
+}
+
+section {
+  padding-top: 5rem;
+}
+footer {
+  background-color: #f3ecaa;
+}
